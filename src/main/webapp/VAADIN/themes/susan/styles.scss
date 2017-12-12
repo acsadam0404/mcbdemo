@@ -1,0 +1,8 @@
+@import "../valo/valo.scss";
+@import "main.scss";
+
+.susan {
+  @include valo;
+  @include main;
+
+}
